@@ -1,0 +1,29 @@
+1. Various sources of Big Data
+  
+         They are used in online transaction
+         They are used in socail media
+         They are used in Stock exchanges
+         They are used in health care unit
+         
+
+2. 3 V's of Big data 
+    
+         Volume the size of data it can hold
+         Variety various types available
+         Velocity speed of the data being transfered
+
+
+3. Horizontal Scaling and Vertical Scaling
+   
+         horizontal scaling is the process of adding more machines in group of computers
+hence the machine has shared resources also called as scale out
+
+         vertical scaling is the process of adding more resources to a particular system like ram and rom
+thus increasing the perfomance of a particular system also called as scale up
+
+
+4. Need and Working of Hadoop
+
+         hadoop is used for string large volumes of data in various machines it is widely used for data management
+it works by having name node and multiple data nodes along with it    
+    
